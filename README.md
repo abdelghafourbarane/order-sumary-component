@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution link](https://www.frontendmentor.io/solutions/challenge-done-using-html5-css3-and-javascript-h12fVLtZL)
+- Live Site URL: [Live Demo link](https://baraneordercomponent.netlify.app/)
 
 ## My process
 
