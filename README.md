@@ -28,9 +28,11 @@ Users should be able to:
 ### Screenshot
 
 * Desktop version (width : 1440px)
+
 ![Desktop version](./screenshots/desktop_version.png)
 
-*Mobile version (width : 375px)
+* Mobile version (width : 375px)
+
 ![Mobile version](./screenshots/mobile_version.png)
 
 
